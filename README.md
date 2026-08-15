@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
 ## Dancing Links
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
