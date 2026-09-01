@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0328-odd-even-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
 | ------- |
