@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
