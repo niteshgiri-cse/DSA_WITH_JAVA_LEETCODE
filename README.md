@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
