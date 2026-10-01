@@ -1,5 +1,6 @@
 class Solution {
-    public boolean findEmptyCell(char[][]board,int[]emptyCell){
+
+    boolean findEmptyCell(char[][] board, int[]emptyCell){
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
                 if(board[i][j]=='.'){
@@ -9,64 +10,56 @@ class Solution {
                 }
             }
         }
-        ///if no cell empty 
+        // There is no empty cell available
         return false;
     }
-
-    public boolean isSafe(char[][]board,int value,int rowIndex,int colIndex){
-        // rules to check 
-        //same horizontal line 
+    public boolean isSafe(char[][] board,int rowIndex,int colIndex,int val){
+        // for column checking 
         for(int col=0;col<9;col++){
-            if(board[rowIndex][col]==value){
+            if(board[rowIndex][col]==val){
                 return false;
             }
         }
-        //same vertical line
+        // for row cheking 
         for(int row=0;row<9;row++){
-             if(board[row][colIndex]==value){
+            if(board[row][colIndex]==val){
                 return false;
             }
-        } 
-        // check inside 3*3 matrix 
-        int row=rowIndex-rowIndex%3;
-        int col=colIndex-colIndex%3;
+        }
+        // 3 * 3 matrix checking 
+        int pRIdx=rowIndex-rowIndex%3;
+        int pCIdx=colIndex-colIndex%3;
         for(int i=0;i<3;i++){
             for(int j=0;j<3;j++){
-                int startRow=row+i;
-                int startCol=col+j;
-                if(board[startRow][startCol]==value){
+                int currRow=i+pRIdx;
+                int currCol=j+pCIdx;
+                if(board[currRow][currCol]==val){
                     return false;
                 }
             }
         }
-        // value rakhna possible hai tab
         return true;
 
-    }
-   public boolean solveSudokuHelper(char[][]board){
 
-    int [] emptyCell=new int[2];
-    if(!findEmptyCell(board,emptyCell)){
-        return true;
     }
-    int rowIndex=emptyCell[0];
-    int colIndex=emptyCell[1];
-
-    for(int value=1;value<=9;value++){
-        char currValue=(char) (value+'0');
-        if(isSafe(board,currValue,rowIndex,colIndex)){
-            board[rowIndex][colIndex]=currValue;
-            if(solveSudokuHelper(board)==true){
-                return true;
+    public boolean solveSudokuHelper(char[][] board){
+         int[] emptyCell=new int[2];
+         if(!findEmptyCell(board,emptyCell)){
+            return true;
+         }
+        int rowIndex=emptyCell[0];
+        int colIndex=emptyCell[1];
+        for(int i=1;i<=9;i++){
+            char val=(char) (i+'0');
+            if(isSafe(board,rowIndex,colIndex,val)){
+                board[rowIndex][colIndex]=val;
+                if(solveSudokuHelper(board)==true) return true;
+                board[rowIndex][colIndex]='.';
             }
-            board[rowIndex][colIndex]='.';
         }
+        return false;
+
     }
-    // sare value check karne ke bad bhi nahi huwa to 
-    return false;
-
-   }
-
     public void solveSudoku(char[][] board) {
         solveSudokuHelper(board);
     }
