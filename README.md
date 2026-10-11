@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0198-house-robber) |
+| [0485-max-consecutive-ones](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
