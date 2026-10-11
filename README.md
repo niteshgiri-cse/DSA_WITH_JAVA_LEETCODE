@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Dancing Links
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
