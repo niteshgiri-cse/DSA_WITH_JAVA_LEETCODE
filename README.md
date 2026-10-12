@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
