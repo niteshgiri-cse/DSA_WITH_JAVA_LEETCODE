@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 ## Sorting
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
