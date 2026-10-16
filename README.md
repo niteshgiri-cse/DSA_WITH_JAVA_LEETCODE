@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Backtracking
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
