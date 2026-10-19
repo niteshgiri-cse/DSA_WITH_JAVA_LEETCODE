@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -181,4 +184,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
