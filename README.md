@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Backtracking
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
