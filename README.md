@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
