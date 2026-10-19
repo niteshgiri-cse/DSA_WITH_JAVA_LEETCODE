@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
