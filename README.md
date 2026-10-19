@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -189,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
