@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
+| [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
