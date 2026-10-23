@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Greedy
