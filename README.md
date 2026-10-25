@@ -149,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
 |  |
@@ -236,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
