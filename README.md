@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
