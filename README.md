@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0513-find-bottom-left-tree-value](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
