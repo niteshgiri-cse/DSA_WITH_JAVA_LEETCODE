@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0328-odd-even-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
