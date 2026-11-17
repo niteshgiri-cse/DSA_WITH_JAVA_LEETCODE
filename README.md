@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0037-sudoku-solver) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0079-word-search) |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
