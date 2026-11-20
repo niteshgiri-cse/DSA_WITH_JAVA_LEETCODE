@@ -4,12 +4,11 @@ class Solution {
         if(idx==coins.length) return 0;
 
         if(dp[idx][amount]!=-1) return dp[idx][amount];
-
-        int skip=solve(coins,idx+1,amount,dp);
         int take=0;
         if(coins[idx]<=amount){
             take=solve(coins,idx,amount-coins[idx],dp);
         }
+         int skip=solve(coins,idx+1,amount,dp);
         return dp[idx][amount]=take+skip;
     }
     public int change(int amount, int[] coins) {
