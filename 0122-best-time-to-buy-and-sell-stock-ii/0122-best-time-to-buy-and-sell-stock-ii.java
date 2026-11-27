@@ -1,19 +1,11 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int sum=0;
-        int minDay=Integer.MAX_VALUE;
-        for(int i=0;i<prices.length;i++){// 7 1 5 3 6 4
-            if(minDay>prices[i]){
-                minDay=prices[i];
-            }else{
-                sum+=prices[i]-minDay;
-                minDay=prices[i];
-            }
-
+        int ans=0;
+        for(int i=1;i<prices.length;i++){
+             if(prices[i]>prices[i-1]){
+                ans+=prices[i]-prices[i-1];
+             }
         }
-        if(sum==0) return 0;
-        else return sum;
+        return ans;
     }
 }
-
-
