@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0705-design-hashset](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0705-design-hashset) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0328-odd-even-linked-list](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0705-design-hashset) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
@@ -378,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
