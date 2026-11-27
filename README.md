@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0706-design-hashmap) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -325,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
@@ -384,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
