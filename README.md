@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0036-valid-sudoku) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0125-valid-palindrome) |
