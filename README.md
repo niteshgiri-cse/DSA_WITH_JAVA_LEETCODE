@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1768-merge-strings-alternately](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1768-merge-strings-alternately](https://github.com/niteshgiri-cse/DSA_WITH_JAVA_LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
